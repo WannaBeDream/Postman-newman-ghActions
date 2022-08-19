@@ -1,0 +1,111 @@
+products:
+  - id: 1
+    name: tomato
+    price: 10
+    sku: 1232143543543
+    description: They are usually red, scarlet, or yellow, though green and purple
+      varieties do exist, and they vary in shape from almost spherical to oval
+      and elongate to pear-shaped.
+  - id: 2
+    name: lettuce
+    price: 20
+    sku: 999921312423
+    description: Most lettuce varieties are eaten fresh and are commonly served as
+      the base of green salads
+  - id: 3
+    name: apple
+    price: 30
+    sku: 999921312423312
+    description: awesome
+orders:
+  - id: 1
+    name: order1
+    sku: 1232143543543
+  - id: 2
+    name: order2
+    sku: 999921312423
+  - id: 3
+    name: order2
+    sku: 999921312423312
+users:
+  - id: 1
+    firstName: Alice
+    lastName: Smith
+    email: alice.smith@gmail.com
+    dateOfBirth: 1997-10-31
+    emailVerified: true
+    signUpDate: 2019-08-24
+    status: active
+    level: admin
+  - id: 2
+    firstName: Bob
+    lastName: Smith
+    email: bob.smith@gmail.com
+    dateOfBirth: 1997-10-31
+    emailVerified: true
+    signUpDate: 2019-08-24
+    status: active
+    level: consumer
+  - id: 3
+    firstName: Joe
+    lastName: Smith
+    email: joe.smith@gmail.com
+    dateOfBirth: 1997-10-31
+    emailVerified: true
+    signUpDate: 2019-08-24
+    status: active
+    level: consumer
+  - id: 4
+    firstName: Vesta
+    lastName: Smith
+    email: vesta.smith@gmail.com
+    dateOfBirth: 1997-10-31
+    emailVerified: true
+    signUpDate: 2019-08-24
+    status: active
+    level: consumer
+  - id: 5
+    firstName: Dax
+    lastName: Smith
+    email: dax.smith@gmail.com
+    dateOfBirth: 1997-10-31
+    emailVerified: true
+    signUpDate: 2019-08-24
+    status: active
+    level: consumer
+  - id: 6
+    firstName: naruto
+    lastName: Smith
+    email: naruto.smith@gmail.com
+    dateOfBirth: 1997-10-31
+    emailVerified: true
+    signUpDate: 2019-08-24
+    status: active
+    level: consumer
+  - id: 7
+    firstName: saske
+    lastName: Smith
+    email: saske.smith@gmail.com
+    dateOfBirth: 1997-10-31
+    emailVerified: true
+    signUpDate: 2019-08-24
+    status: active
+    level: consumer
+  - id: 8
+    firstName: kukareku
+    lastName: kukareku
+    email: kukareku.smith@gmail.com
+    dateOfBirth: 1997-10-31
+    emailVerified: false
+    signUpDate: 2019-08-24
+    status: active
+    level: consumer
+  - id: 9
+    firstName: asdasd
+    lastName: asd
+    email: asdasd.smith@gmail.com
+    dateOfBirth: 1997-10-31
+    emailVerified: false
+    signUpDate: 2019-08-24
+    status: active
+    level: consumer
