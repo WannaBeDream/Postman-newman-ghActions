@@ -1,4 +1,4 @@
-# Postman + newman + github actions (Pet store template)
+# Postman + newman + github actions (Simple store template)
 
 ## Task steps
 1. Read: 
