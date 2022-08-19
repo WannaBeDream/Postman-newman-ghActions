@@ -32,7 +32,7 @@ Examples:
 -  Try to follow `AAA` approach (arrange, act, assert).
 
 7. Save new collection with your new integration tests with the same name as `store.collection.json`. ( in case with another API - another file name for json file)
-8. Push to you github repo in main branch
+8. Push to you github repo in main branch ( in case with local server - save local server as well )
 9. Add Github action to run your tests in Github pages by <a href="https://www.linkedin.com/pulse/running-postman-collections-via-github-action-nirmala-jayasanka"> article </a> or use another GH action.
 10. Check github actions for result.
 
