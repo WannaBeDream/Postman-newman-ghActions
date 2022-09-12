@@ -1,5 +1,7 @@
 # Postman + newman + github actions (Simple store template)
 
+<a href="https://drive.google.com/file/d/1LQ1uG7Tt70Jubuk5loS4dMSk-1AJ5jzz/view?usp=sharing" /> Google drive intro </a>
+
 ## Task steps
 1. Read: 
 - <a href="https://svitla.com/blog/testing-rest-api-with-postman-and-curl"> Postman & Curl & REST article </a> 
