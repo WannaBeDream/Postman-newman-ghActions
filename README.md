@@ -45,11 +45,6 @@ Examples:
 You can use another API to perform  your testing instead of local store API and `store.collection.json`. 
 - <a href="https://github.com/public-apis/public-apis"> Public API list </a>
 
-
-### Just watch the video below 
-How to Generate auto test based on swagger/openApi docs? (only take a look once at the end of the tasks, no need to do or learn this)
-- <a href="https://drive.google.com/file/d/1nhGsexcVzSrFvLOShCTessCbtUamO9fe/view?usp=sharing"> Portman / schemathesis </a>
-
 ### Usefull links (skip this)
 Examples with different actions in Postman workspace (only take a look once, no need to learn this) 
 - <a href="https://www.postman.com/postman/workspace/postman-answers"> Postman answers </a>
