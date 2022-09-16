@@ -1,8 +1,9 @@
 # Postman + newman + github actions (Simple store template)
 
-<a href="https://drive.google.com/file/d/1LQ1uG7Tt70Jubuk5loS4dMSk-1AJ5jzz/view?usp=sharing" /> Google drive intro </a>
+<a href="https://drive.google.com/file/d/1LQ1uG7Tt70Jubuk5loS4dMSk-1AJ5jzz/view?usp=sharing" /> Intro </a>
+<a href="https://drive.google.com/file/d/1ftlfK91TXTS9GH7ufEXsGujop_LpC5ef/view?usp=sharing" /> Manual schema generation </a>
 
-## Task steps
+## Task steps / First task
 1. Read: 
 - <a href="https://svitla.com/blog/testing-rest-api-with-postman-and-curl"> Postman & Curl & REST article </a> 
 - <a href="https://learning.postman.com/docs/writing-scripts/script-references/test-examples/">Postman tests examples (off doc)</a>
@@ -36,7 +37,7 @@ Examples:
 7. Save new collection with your new integration tests with the same name as `store.collection.json`. ( in case with another API - another file name for json file)
 8. Push to you github repo in main branch ( in case with local server - save local server as well )
 
-###  GH actions practice
+###  GH actions practice / Second Task
 9. Add Github action to run `petstore.collection.json` in Github pages by <a href="https://www.linkedin.com/pulse/running-postman-collections-via-github-action-nirmala-jayasanka"> article </a> or use another GH action.
 10. Check github actions for result.
 
@@ -44,8 +45,14 @@ Examples:
 You can use another API to perform  your testing instead of local store API and `store.collection.json`. 
 - <a href="https://github.com/public-apis/public-apis"> Public API list </a>
 
-Examples with different actions in Postman workspace (no need to learn this) 
+
+### Just watch the video below 
+How to Generate auto test based on swagger/openApi docs? (only take a look once at the end of the tasks, no need to do or learn this)
+- <a href="https://drive.google.com/file/d/1nhGsexcVzSrFvLOShCTessCbtUamO9fe/view?usp=sharing"> Portman / schemathesis </a>
+
+### Usefull links (skip this)
+Examples with different actions in Postman workspace (only take a look once, no need to learn this) 
 - <a href="https://www.postman.com/postman/workspace/postman-answers"> Postman answers </a>
 
-Doc for json schema validation, to check output API response (no need to learn this doc) 
+Doc for json schema validation, to check output API response (only take a look once, no need to learn this doc) 
 - <a href="https://json-schema.org"> json schema docs </a>
