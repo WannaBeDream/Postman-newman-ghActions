@@ -44,7 +44,7 @@ Examples:
 You can use another API to perform  your testing instead of local store API and `store.collection.json`. 
 - <a href="https://github.com/public-apis/public-apis"> Public API list </a>
 
-Examples with different actions in Postman workspace:
+Examples with different actions in Postman workspace (no need to learn this) 
 - <a href="https://www.postman.com/postman/workspace/postman-answers"> Postman answers </a>
 
 Doc for json schema validation, to check output API response (no need to learn this doc) 
