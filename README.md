@@ -48,6 +48,7 @@ You can use another API to perform  your testing instead of local store API and 
 ### Usefull links (skip this)
 Examples with different actions in Postman workspace (only take a look once, no need to learn this) 
 - <a href="https://www.postman.com/postman/workspace/postman-answers"> Postman answers </a>
+- <a href="https://restfulapi.net"> REST API Tutorial </a>
 
 Doc for json schema validation, to check output API response (only take a look once, no need to learn this doc) 
 - <a href="https://json-schema.org"> json schema docs </a>
